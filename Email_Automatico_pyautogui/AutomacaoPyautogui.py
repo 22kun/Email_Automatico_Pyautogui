@@ -26,3 +26,7 @@ pyautogui.press("tab")
 pyperclip.copy("Este é um email automático.")
 pyautogui.hotkey("ctrl", "v")
 pyautogui.hotkey("ctrl", "enter")
+
+## Pyautogui and Pyperclip installation required.
+
+
